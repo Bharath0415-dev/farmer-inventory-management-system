@@ -1,0 +1,19 @@
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\bin\Debug\Farmer IMS.exe.config
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\bin\Debug\Farmer IMS.exe
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\bin\Debug\Farmer IMS.pdb
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\bin\Debug\Farmer IMS.xml
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.vbprojAssemblyReference.cache
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.Form1.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.Resources.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.vbproj.GenerateResource.cache
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.vbproj.CoreCompileInputs.cache
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.exe
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.xml
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer IMS.pdb
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.home.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.start.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.product.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.user.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.category.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.customer.resources
+C:\Users\BHARATH KUMARA\source\repos\Farmer IMS\Farmer IMS\obj\Debug\Farmer_IMS.order.resources
